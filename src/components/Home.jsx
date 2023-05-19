@@ -61,7 +61,7 @@ const Home = () => {
       <footer>
         <h4>
           Build 💛 by &nbsp;
-          <a href="s" className="createNewBtn">Lokesh</a>
+          <a href="s" className="createNewBtn">Ramakant</a>
         </h4>
       </footer>
     </div>
